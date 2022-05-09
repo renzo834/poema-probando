@@ -1,0 +1,5 @@
+The colors of the rainfall, are:
+red
+blue
+yellow
+White
